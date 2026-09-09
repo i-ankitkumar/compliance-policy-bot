@@ -1,5 +1,9 @@
 # policyrag — RAG Compliance Policy Bot
 
+[![CI](https://github.com/i-ankitkumar/compliance-policy-bot/actions/workflows/ci.yml/badge.svg)](https://github.com/i-ankitkumar/compliance-policy-bot/actions/workflows/ci.yml)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://github.com/i-ankitkumar/compliance-policy-bot/blob/main/LICENSE)
+[![Python 3.10+](https://img.shields.io/badge/python-3.10%2B-blue.svg)](https://www.python.org/downloads/)
+
 A small retrieval-augmented Q&A bot for internal policy documents (data
 retention, access control, incident response, vendor risk, GDPR/DSGVO). Ask
 a question in plain English, get back the exact policy excerpts that answer
